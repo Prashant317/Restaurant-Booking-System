@@ -1,0 +1,317 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Tamra Restaurant",
+      "email": "tamra.slnd@shangri-la.com",
+      "address": "Delhi, Level 1",
+      "Rating": "9.1",
+      "categoryId": "Chinese"
+    },
+    {
+      "id": 2,
+      "name": "Sorrento Restaurant",
+      "email": "sorrento.slnd@shangri-la.com",
+      "address": "Mumbai, Lobby Level",
+      "Rating": 9.6,
+      "categoryId": "Indian"
+    },
+    {
+      "id": 3,
+      "name": "Shang Palace Tamra",
+      "email": "shangpalace.slnd@shangri-la.com",
+      "address": "Ahemedabad, Lobby Level",
+      "Rating": 8.7,
+      "categoryId": "Chinese"
+    },
+    {
+      "id": 4,
+      "name": "Mister Chai Tamra",
+      "email": "foodandbeverage.slnd@shangri-la.com",
+      "address": "Chennai, Lobby Level",
+      "Rating": 8.9,
+      "categoryId": "Continental"
+    },
+    {
+      "id": 5,
+      "name": "Grappa Tamra 5",
+      "email": "grappa.slnd@shangri-la.com",
+      "address": "Chennai, Level 1",
+      "Rating": 9.2,
+      "categoryId": "Italian"
+    },
+    {
+      "id": 6,
+      "name": "Mister Chai",
+      "email": "foodandbeverage.slnd@shangri-la.com",
+      "address": "Bangalore, Level 1",
+      "Rating": 8.9,
+      "categoryId": "Chinese"
+    },
+    {
+      "id": 7,
+      "name": "Tamra feat Restaurant",
+      "email": "food.slnd@tamra-la.com",
+      "address": "Kolkata, Lobby Level",
+      "Rating": 8.2,
+      "categoryId": "Indian"
+    },
+    {
+      "id": 8,
+      "name": "Tamra Culture",
+      "email": "foodie.slnd@shangri-la.com",
+      "address": "Mumbai, Level 2",
+      "Rating": 8,
+      "categoryId": "Italian"
+    },
+    {
+      "id": 9,
+      "name": "Tamra FrontFoot",
+      "email": "foodie.slnd@shatamra.com",
+      "address": "Noida, Lobby Level",
+      "Rating": "9.3",
+      "categoryId": "Continental"
+    },
+    {
+      "id": 10,
+      "name": "Tamra Fiest",
+      "email": "tamrafiest@gmail.tamra.co",
+      "address": "Chennai, Level 1",
+      "Rating": "9.2",
+      "categoryId": "South Indian"
+    },
+    {
+      "name": "Tamra hauz khas",
+      "email": "tamrahauz@gmail.com",
+      "address": "Hauz khas, Delhi",
+      "Rating": "8.5",
+      "categoryId": "Gujrati",
+      "id": 11
+    }
+  ],
+  "categories": [
+    {
+      "id": "Indian",
+      "name": "Indian food Available",
+      "price": "100",
+      "time": "9:00 - 20:00"
+    },
+    {
+      "id": "Chinese",
+      "name": "Chinese food available",
+      "price": "50",
+      "time": "9:00 - 20:00"
+    },
+    {
+      "id": "Italian",
+      "name": "Italian food available",
+      "price": "50",
+      "time": "9:00 - 20:00"
+    },
+    {
+      "id": "Continental",
+      "name": "Continental food available",
+      "price": "50",
+      "time": "9:00 - 20:00"
+    },
+    {
+      "name": "It Is Available In Majority",
+      "price": "150",
+      "time": "09:00 to 22:00",
+      "id": "South Indian"
+    },
+    {
+      "name": "Availaible",
+      "price": "200",
+      "time": "09:00 to 22:00",
+      "id": "Gujrati"
+    }
+  ],
+  "login": [
+    {
+      "email": "tamraadmin317@gmail.com",
+      "password": "tamra317"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Bhagat Singh",
+      "username": "bhagat123",
+      "password": "bhagat317",
+      "email": "bs@gmail.com",
+      "contact": "9457272299",
+      "address": "bhl budhana, UP"
+    },
+    {
+      "id": 2,
+      "name": "Rajesh Kumar",
+      "username": "rajesh12345",
+      "password": "rajesh123",
+      "email": "rj@gmail.com",
+      "contact": "9344080272",
+      "address": "meerut cantt, Uttar Pradesh"
+    },
+    {
+      "id": 3,
+      "name": "Manju Singh",
+      "username": "manju123",
+      "password": "manju317",
+      "email": "manju@gmail.com",
+      "contact": "8126228898",
+      "address": "Meerut, Uttar pradesh"
+    },
+    {
+      "name": "Prashant Kumar",
+      "username": "prashant123",
+      "password": "prashant123",
+      "email": "pk@gmail.com",
+      "contact": "9344080271",
+      "address": "VIT vellore, Tamil Nadu",
+      "id": 4
+    },
+    {
+      "id": 7,
+      "name": "Ram",
+      "username": "ram123",
+      "password": "ramramram",
+      "email": "ram@gmail.com",
+      "contact": "9890989098",
+      "address": "Noida"
+    },
+    {
+      "name": "Shyam",
+      "username": "shyam123",
+      "password": "shyam123",
+      "email": "shyam@gmail.com",
+      "contact": "9890909090",
+      "address": "Chennai",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Manish Kumar",
+      "username": "manish123",
+      "password": "manish317",
+      "email": "manish@gmail.com",
+      "contact": "9344080235",
+      "address": "Muzaffarnagar"
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "name": "prashant",
+      "email": "pk@gmail.com",
+      "subject": "Suggestions",
+      "message": "trail purpose"
+    }
+  ],
+  "currentBookings": [
+    {
+      "userId": 9,
+      "name": "pks",
+      "email": "manish@gmail.com",
+      "contact": "9344080235",
+      "address": "Meerut",
+      "category": "Chinese",
+      "restaurant": "Tamra Restaurant",
+      "location": "Delhi, Level 1",
+      "time": "13:30 to 14:30",
+      "date": "2020-06-28",
+      "seats": "3",
+      "parking": "YES",
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "name": "Pratap",
+      "email": "pratap@gmail.com",
+      "contact": "7898789098",
+      "address": "Chennai",
+      "category": "South Indian",
+      "restaurant": "Tamra Fiest",
+      "location": "Chennai, Level 1",
+      "time": "21:00 to 22:00",
+      "date": "2020-07-04",
+      "seats": "1",
+      "parking": "NO",
+      "id": 7
+    },
+    {
+      "userId": "2",
+      "name": "Vedant",
+      "email": "vedant@gmail.com",
+      "contact": "9089098909",
+      "address": "Chennai",
+      "category": "Continental",
+      "restaurant": "Mister Chai Tamra",
+      "location": "Chennai, Lobby Level",
+      "time": "09:30 to 10:30",
+      "date": "2020-08-22",
+      "seats": "5",
+      "parking": "YES",
+      "id": 8
+    },
+    {
+      "userId": "2",
+      "name": "Sundesh",
+      "email": "sundesh@gmail.com",
+      "contact": "6787890989",
+      "address": "Kolkata",
+      "category": "Indian",
+      "restaurant": "Tamra feat Restaurant",
+      "location": "Kolkata, Lobby Level",
+      "time": "20:00 to 21:00",
+      "date": "2020-06-30",
+      "seats": "6",
+      "parking": "YES",
+      "id": 9
+    },
+    {
+      "userId": 4,
+      "name": "Prashant Kumar",
+      "email": "pk@gmail.com",
+      "contact": "9344080278",
+      "address": "182 Pinna",
+      "category": "Chinese",
+      "restaurant": "Tamra Restaurant",
+      "location": "Delhi, Level 1",
+      "time": "09:30 to 10:30",
+      "date": "2020-11-28",
+      "seats": "4",
+      "parking": "YES",
+      "id": 11
+    }
+  ],
+  "completedBookings": [
+    {
+      "bookingId": 2,
+      "userId": "8",
+      "message": "Thanks dear Prashant Panwar for visiting Shang Palace Tamra. We hope we have fullfilled your dining properly. See you soon",
+      "feedback": "",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "bookingId": 5,
+      "userId": "3",
+      "message": "Thanks dear Manju for visiting Grappa Tamra 5. We hope we have fullfilled your dining properly. See you soon",
+      "feedback": "The food was very good and hygienic, Thank you. "
+    },
+    {
+      "bookingId": 3,
+      "userId": "8",
+      "message": "Thanks dear prakash for visiting Tamra Fiest. We hope we have fullfilled your dining properly. See you soon",
+      "feedback": "",
+      "id": 4
+    },
+    {
+      "bookingId": 4,
+      "userId": "1",
+      "message": "Thanks dear Bhagat SIngh for visiting Tamra Restaurant. We hope we have fullfilled your dining properly. See you soon",
+      "feedback": "",
+      "id": 5
+    }
+  ]
+}
